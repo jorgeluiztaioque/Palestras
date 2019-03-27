@@ -1,0 +1,46 @@
+IOT
+	Elettro / Eletrônica
+	Logica de programação (C / Python / Go)
+	Computação em nuvem 
+	https://create.arduino.cc/
+	
+	
+BIG DATA
+	Matemática
+	R
+	Python
+	https://pythonprogramming.net/math-basics-python-3-beginner-tutorial/
+	https://realpython.com/python-matplotlib-guide/
+	https://data36.com/pandas-tutorial-1-basics-reading-data-files-dataframes-data-selection/
+	
+AI
+	C / Python
+	https://medium.com/technology-invention-and-more/how-to-build-a-simple-neural-network-in-9-lines-of-python-code-cc8f23647ca1
+	
+	
+AUTOMATION
+	Python
+	Georreferenciamento
+	Elettro / Eletrônica 
+	http://python.dronekit.io/examples/follow_me.html
+	
+	
+CONTAINERS
+	Docker
+	LXD
+	Kubernets
+	Docker Swarm
+	https://www.digitalocean.com/community/tutorials/como-instalar-e-usar-o-docker-no-ubuntu-18-04-pt
+	https://help.ubuntu.com/lts/serverguide/lxd.html.en
+	
+5G
+	LTE
+	Arquitetura de operação
+	Como utilizar o 5G nas técnologias do futuro
+	https://spectrum.ieee.org/video/telecom/wireless/everything-you-need-to-know-about-5g
+	
+	
+QUANTUM COMPUTING
+	Conceitos de funcionamento e como programar para um processador quântico.  
+	https://quantiki.org/wiki/list-qc-simulators
+	https://www.research.ibm.com/ibm-q/learn/what-is-quantum-computing/
